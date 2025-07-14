@@ -1,0 +1,28 @@
+.titlepage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.resource {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 3.6;
+    margin: 20px 10px 40px 20px;
+    color: blue;
+}
+a {
+    text-decoration: none;
+  }
+
+a:hover{
+  cursor:url(https://cdn.custom-cursor.com/db/10571/32/minimal-ow-pointer.png) , pointer;
+
+}
+
+#phi:hover {
+  content:url("artwork/p2/phishark.jpeg");
+}
+
+
+#tot:hover {
+  content:url("artwork/p2/totorobw.png");
+}
